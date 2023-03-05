@@ -130,3 +130,10 @@ html{
     margin-top: 25px;
     color: white;
 }
+.service{
+    display: flex;
+    flex-wrap: wrap;
+}
+.service h3{
+    font-size: 20px;
+}
