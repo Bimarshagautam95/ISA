@@ -166,3 +166,31 @@ html{
     border-color: blueviolet;
     margin-bottom: 25px;
 }
+.master img{
+    height: 100px;
+    width: 100px;
+}
+.master{
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.master button{
+    height: 50px;
+    width: 100px;
+    background-color: #3A1078;
+    color: #DEFCF9;
+    margin: 10px 0;
+}
+#contact h1{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    color: white;
+    background-color:#85CDFD ;
+}
+#contact{
+    
+    /* padding-left: 50px; */
+}
