@@ -182,6 +182,8 @@ html{
     background-color: #3A1078;
     color: #DEFCF9;
     margin: 10px 0;
+    border-color: white;
+    box-shadow: none;
 }
 #contact h1{
     text-align: center;
@@ -191,6 +193,16 @@ html{
     background-color:#85CDFD ;
 }
 #contact{
-    
+    background-color:#DEFCF9;
     /* padding-left: 50px; */
+}
+.master button:hover{
+    background-color: white;
+    color: #3A1078;
+}
+#contact h3{
+    padding: 15px 25px;
+    font-family: century;
+    font-weight: 400;
+    font-size: 25px;
 }
