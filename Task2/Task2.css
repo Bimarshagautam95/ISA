@@ -206,3 +206,11 @@ html{
     font-weight: 400;
     font-size: 25px;
 }
+.navbar input[type=text] {
+    float: right;
+    margin-left: 20px;
+    padding: 0 6px;
+    border: none;
+    margin-right: 16px; 
+    font-size: 17px;
+  }
